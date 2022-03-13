@@ -23,7 +23,7 @@ My name is Rebecca and I am a junior software engineer. Currently I am in the la
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaiimusician&repo=onlyPets&theme=tokyonight" />
 </a>
 <a href="https://github.com/kawaiimusician/higher-or-lower">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaiimusician&repo=onlyPets&theme=tokyonight" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaiimusician&repo=higher-or-lower&theme=tokyonight" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaiimusician&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

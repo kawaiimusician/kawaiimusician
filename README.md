@@ -14,7 +14,7 @@
 
 
 ## Hello there!
-My name is Rebecca and I am a junior software engineer. Currently I am in the last month of bootcamp at Austin Community College. Feel free to browse my code and check out my deployed project at [OnlyPets](https://onlypets.herokuapp.com/).
+My name is Rebecca and I am a software developer. I have 2 years experience with developing in NetSuite and am currently working on my Bachelors of Computer Science at the University of London.
 
 
 ---

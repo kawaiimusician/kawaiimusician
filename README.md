@@ -26,8 +26,4 @@ My name is Rebecca and I am a software developer. I have 2 years experience with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaiimusician&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✋ Find me on social media!
-[![linkedin](./assets/icons/linkedin.png)](https://www.linkedin.com/in/rebecca-heyman/)
-[![youtube](./assets/icons/youtube.png)](https://www.youtube.com/channel/UCtz7ifWRGAjP0fH_WNC2yDg)
-[![instagram](./assets/icons/instagram.png)](https://www.instagram.com/kawaiimusician/)
 

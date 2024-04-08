@@ -1,5 +1,3 @@
-[![Rebecca's GitHub Banner](./assets/rebeccaBanner.png)]()
-
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Markdown-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)

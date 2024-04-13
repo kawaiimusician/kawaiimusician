@@ -12,7 +12,7 @@
 
 
 ## Hello there!
-My name is Rebecca and I am a software developer. I have 2 years experience with developing in NetSuite and am currently working on my Bachelors of Computer Science at the University of London.
+My name is Rebecca and I am a software developer. I have 3 years experience with developing in NetSuite and am currently working on my Bachelors of Computer Science at the University of London.
 
 
 ---
